@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="283.4646"
+   height="283.4646"
+   id="svg4510"
+   viewBox="0 0 283.4646 283.4646"
+   sodipodi:docname="RestartIcon.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata4516">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4514" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview4512"
+     showgrid="false"
+     inkscape:zoom="2.9915552"
+     inkscape:cx="141.7323"
+     inkscape:cy="141.7323"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4510" />
+  <path
+     d="M 89.8547,43.2544 A 41.2983,41.2983 0 0 1 131.153,84.5528 41.2983,41.2983 0 1 1 89.8547,43.2544 Z"
+     style="fill:none;stroke:#008f6b;stroke-width:4.79990005;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path4504"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 106.6548,74.0303 c 1.8487,3.0024 2.9159,6.5375 2.9159,10.3222 0,10.8889 -8.8272,19.7161 -19.7161,19.7161 -10.8889,0 -19.716,-8.8272 -19.716,-19.7161 0,-9.5284 6.7591,-17.478 15.7442,-19.3158"
+     style="fill:none;stroke:#008f6b;stroke-width:4.79990005;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path4506"
+     inkscape:connector-curvature="0" />
+  <path
+     d="m 84.7103,59.4682 9.8819,4.0137 -7.6536,7.2782 z"
+     style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:0.56690001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path4508"
+     inkscape:connector-curvature="0" />
+</svg>

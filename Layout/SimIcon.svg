@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="SimIcon.svg"
+   inkscape:export-filename="D:\desenv\games\SpinTo7\Layout\SimIcon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Tail"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Tail"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <g
+         id="g4593"
+         transform="scale(-1.2)"
+         style="stroke:#008f6b;stroke-opacity:1;fill:#008f6b;fill-opacity:1">
+        <path
+           id="path4581"
+           d="M -3.8048674,-3.9585227 L 0.54352094,0"
+           style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4583"
+           d="M -1.2866832,-3.9585227 L 3.0617053,0"
+           style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4585"
+           d="M 1.3053582,-3.9585227 L 5.6537466,0"
+           style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4587"
+           d="M -3.8048674,4.1775838 L 0.54352094,0.21974226"
+           style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4589"
+           d="M -1.2866832,4.1775838 L 3.0617053,0.21974226"
+           style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+        <path
+           id="path4591"
+           d="M 1.3053582,4.1775838 L 5.6537466,0.21974226"
+           style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:0.8;stroke-linecap:round;stroke-opacity:1;fill-opacity:1" />
+      </g>
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker4923"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4921"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#008f6b;stroke-width:1pt;stroke-opacity:1;fill:#008f6b;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4687"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#008f6b;stroke-width:1pt;stroke-opacity:1;fill:#008f6b;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="193.6746"
+     inkscape:cy="815.1094"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 62.249447,65.622182 h 50.874443 c 18.46466,0 18.46466,-26.698419 0,-26.698419 H 61.932192 c 8.552891,9.20437 9.380313,18.120853 0.317255,26.698419 z"
+       style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:2.25566101;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path4863" />
+    <text
+       x="76.488602"
+       y="60.152271"
+       id="text4867"
+       style="font-size:5.63926983px;stroke-width:0.46993914"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <tspan
+         style="font-size:24.43683624px;font-family:Ellipsoideogram;fill:#ffffff;stroke-width:0.46993914"
+         font-size="52.0000"
+         id="tspan4865">Sim</tspan>
+    </text>
+    <path
+       inkscape:connector-curvature="0"
+       d="M 47.844636,32.865307 A 19.407689,19.407689 0 0 1 67.252371,52.273043 19.407689,19.407689 0 1 1 47.844636,32.865307 Z"
+       style="fill:none;stroke:#008f6b;stroke-width:2.25566101;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path4869" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 36.152719,52.272997 H 50.815981"
+       style="fill:#008f6b;fill-rule:evenodd;stroke:#008f6b;stroke-width:1.29588878;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker4923)"
+       id="path4871" />
+  </g>
+</svg>
