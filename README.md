@@ -4,6 +4,7 @@ Welcome to the repository of SpinTo7, a mobile game created by For Fun Studios i
 
 ## About the Game
 SpinTo7 is a mobile game developed using C# and the Unity framework. It's a simple yet addictive game where players spin a wheel and aim to reach the number 7. The game was a passion project for us at For Fun Studios, and we hope you enjoy taking a peek behind the scenes.
+If you want to try it, you can download it for Android [here](https://play.google.com/store/apps/details?id=com.ForFunStudios.SpinTo7Free)
 
 ## How to Run the Game
 To run SpinTo7, you'll need to have Unity installed. Make sure to use Unity version 2022.3.18f1, as the game is optimized for this specific version. You can download Unity at [Unity Hub](https://unity.com/).
